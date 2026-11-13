@@ -17,6 +17,3 @@ Algoritmo AnioBisiesto
 FinAlgoritmo
 
 
-git branch -M main
-git remote add origin https://github.com/Juanmi099/ALGORITMOS.git
-git push -u origin main
